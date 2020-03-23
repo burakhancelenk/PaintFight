@@ -2,7 +2,7 @@
 * Made with **Unity**  
 * Used **Photon PUN** service for realtime multiplayer system.  
 * **There are only scripts uploaded here because of the storage limits. For whole project files please click link below;**  
-* [](https://yadi.sk/d/rl1OpuTm6LGkCA)  
+* https://yadi.sk/d/rl1OpuTm6LGkCA
   
 ## Screenshots  
   
